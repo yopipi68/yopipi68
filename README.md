@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=pink&height=200&section=header&text=Welcome%20to%20yopipi's%20page&fontSize=50)
+
+![Ruby](https://img.shields.io/badge/Ruby-FFB6C1?style=for-the-badge&logo=ruby&logoColor=white) 
+![VSCode](https://img.shields.io/badge/VSCode-87CEFA?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+![yopipi's github stats](https://github-readme-stats.vercel.app/api?username=yopipi68&show_icons=true&theme=rose)
