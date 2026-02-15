@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=ffeeff&customColorList=10&height=200&section=header&text=Welcome%20to%20yopipi's%20world%20✨&fontSize=50&fontColor=ff69b4&fontAlignY=40&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=ffeeff&customColorList=10&height=200&section=header&text=yopi%20🎀&fontSize=55&fontColor=ff69b4&fontAlignY=40&animation=twinkling)
 
 ![Ruby](https://img.shields.io/badge/Ruby-FFB6C1?style=for-the-badge&logo=ruby&logoColor=white) 
 ![VSCode](https://img.shields.io/badge/VSCode-87CEFA?style=for-the-badge&logo=visual-studio-code&logoColor=white)
