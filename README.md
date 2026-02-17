@@ -24,5 +24,4 @@ Here are some ideas to get you started:
 ![yopipi's github stats](https://github-readme-stats.vercel.app/api?username=yopipi68&show_icons=true&theme=rose)
 
 
-### 🎀 My Coding City (3D)
-![yopipi's 3D graph](https://github-profile-3d-contrib.vercel.app/api?username=yopipi68&theme=rose)
+
